@@ -10,8 +10,6 @@
 
 - 💬 Ask me about **JavaScript, HTML, CSS**
 
-<!-- - 📧 Email: [bruleorn@gmail.com](bruleorn@gmail.com) -->
-
 - ⚡ Spare Time 🥁 Drummer 🥁 from Declite.
 
 <br><br>
@@ -45,50 +43,17 @@
 ## 👨🏽‍🦲 &nbsp;Social Links
 
 <p align="left" style="background:yellow">
-<!-- <a href="https://www.instagram.com/brunogaruda.8931/" target="_blank">
- <img align="center" src="https://img.shields.io/badge/-BrunoGaruda-05122A?style=flat&logo=instagram" alt="instagram"/> -->
-<!-- <a href="https://codepen.io/BrunoGaruda" target="_blank">
-  <img align="center" src="https://img.shields.io/badge/-BrunoGaruda-05122A?style=flat&logo=codepen" alt="codepen"/>
-</a> -->
-<!-- <a href="https://twitter.com/BrunoGaruda" target="_blank">
-  <img align="center" src="https://img.shields.io/badge/-BrunoGaruda-05122A?style=flat&logo=twitter" alt="twitter"/>  
-</a> -->
-<!-- <a href="https://linkedin.com/in/bruno-Almeida-dev" target="_blank">
-  <img align="center" src="https://img.shields.io/badge/-BrunoAlmeida-05122A?style=flat&logo=linkedin" alt="linkedin"/>
-</a>
-<a href="https://instagram.com/Declitemetal" target="_blank">
- <img align="center" src="https://img.shields.io/badge/-Declite-05122A?style=flat&logo=instagram" alt="instagram"/>
-</a>
-<a href="https://youtube.com/Decliteband" target="_blank">
- <img align="center" src="https://img.shields.io/badge/-Declite-05122A?style=flat&logo=youtube" alt="youtube"/>
-</a>
-</p> -->
 
 <div> 
-  <a href="https://youtube.com/Decliteband" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>
-  <a href="https://www.instagram.com/brunogaruda.8931/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
- 	<a href="https://www.twitch.tv/bgaruda" target="_blank"><img src="https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white" target="_blank"></a>
+<!--   <a href="https://youtube.com/Decliteband" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a> -->
+<!--   <a href="https://www.instagram.com/brunogaruda.8931/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a> -->
+<!--  	<a href="https://www.twitch.tv/bgaruda" target="_blank"><img src="https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white" target="_blank"></a> -->
  <a href="Bruno_#7019" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a> 
   <a href = "mailto:bruleorn@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/bruno-almeida-dev" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
  
-<!--   ![Snake animation](https://github.com/BrunoGaruda/BrunoGaruda/blob/output/github-contribution-grid-snake.svg) -->
+
  
 </div>
 
-<!-- <img width="500em" src="https://github-readme-twitter-gazf.vercel.app/api?id=BrunoGaruda&layout=wide&show_reply=off&show_retweet=off" /> -->
 
-<!--
-**maykbrito/maykbrito** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
