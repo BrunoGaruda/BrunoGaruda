@@ -1,4 +1,4 @@
-<img align="right" height="590em" src="https://raw.githubusercontent.com/gist/BrunoGaruda/abb80c5a065451f2cc3bfa0b7704e8d1/raw/61ad46109a684a9b572fe1463368b2b298eeff77/githubcard.svg"/>
+<img align="right" height="590em" src="https://raw.githubusercontent.com/gist/BrunoGaruda/9ab3cd2cc33d11efd5b583e6cb2e356a/raw/0b88ed97cf20f4538af1cdca21852ef48b92b27c/githubcar.svg"/>
 <h1 align="left">Hi <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" width="30px">, I'm Bruno Almeida</h1>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=BrunoGaruda&color=green" alt="Profile views" /> </p>
 
